@@ -3,7 +3,6 @@
 - I’m 👀, interested in Coding,Problem Solving,Competitive Programming,Web Developing.
 - I’m 💻, currently learning Computer Science and Engineering.
 - I’m 👯‍♂️, looking to collaborate on other Coding Problems.
-- 
 <h3 align="center">
   Welcome to Saad Mahmud's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
